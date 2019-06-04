@@ -7,4 +7,4 @@ https://digistump.com/wiki/digispark/tutorials/connecting
 change ```192.168.1.1 modem``` to your desired ip and domain.
 you can manually add more sources too but just remember to add "enter" and write your entries line by line.
 ## Disclaimer
-THIS REPOSITORY AND THE CONTENTS ARE ONLY FOR EDUCATIONAL PURPOSE AND YOU ARE THE ONLY ONE WHO IS RESPONSIBLE TO ANY KIND OF MISUSE OR ILLEGAL ACTIVITY BY USING IT.
+THIS REPOSITORY AND THE CONTENTS ARE ONLY FOR EDUCATIONAL PURPOSE AND YOU ARE THE ONLY ONE RESPONSIBLE TO ANY KIND OF MISUSE OR ILLEGAL ACTIVITY BY USING IT.
