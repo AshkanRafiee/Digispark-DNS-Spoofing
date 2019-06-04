@@ -1,4 +1,4 @@
-# Digispark_DNS_Spoofing
+# Digispark DNS Spoofing
 Local DNS Spoofing Using Digispark On Windows Machines!
 ## Usage
 change ```192.168.1.1 modem``` to your desired ip and domain.
